@@ -1,14 +1,12 @@
-# Smart Money Template
-A curated (collaborative) list of smart money management for your locality.
-
-Please remain specific to your targeted region, e.g. There may be a guide for Australia and a separate guide for each state in Australia, as each state may have different laws.
-
-Use this repository as a template for any new region you create.
+# Smart Money NSW
+A curated (collaborative) list of smart money management for New South Wales, Australia.
 
 ## Related
 * [Place links here to any other smart money guides that are within heirarchy to this one.]
 
 ## Automobiles
+### Electric Vehicles
+* [Vehicles with low emissions or wheelchair modifications can get a concession on motor vehicle tax. Commonwealth carers are eligible for a vehicle tax refund.](https://www.rms.nsw.gov.au/roads/vehicle-registration/registration-fees-concessions-forms/lower-taxed-vehicles.html#Hybridandelectricvehicles)
 ## Bank Accounts
 ## Business
 ### Sole Trader
